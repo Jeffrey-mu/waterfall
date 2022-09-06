@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import _ from 'lodash'
 import imgs from '~/composables/images.json'
 const images = _.chunk(imgs, imgs.length / 3)
 </script>
