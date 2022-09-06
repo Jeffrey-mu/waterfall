@@ -1,6 +1,6 @@
 <template>
   <main class="text-center text-gray-700 dark:text-gray-200">
-    <Header />
+    <!-- <Header /> -->
     <RouterView />
   </main>
 </template>
