@@ -3,9 +3,9 @@
 // you can use this to manipulate the document head in any components,
 // they will be rendered correctly in the html results with vite-ssg
 useHead({
-  title: 'Vitesse',
+  title: '王鹤棣-苍兰诀',
   meta: [
-    { name: 'description', content: 'Opinionated Vite Starter Template' },
+    { name: 'description', content: '一个关于苍兰诀 瀑布流布局照片站。' },
     {
       name: 'theme-color',
       content: computed(() => isDark.value ? '#00aba9' : '#ffffff'),
