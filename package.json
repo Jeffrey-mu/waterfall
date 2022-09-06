@@ -14,8 +14,11 @@
     "gdep": "vite-ssg build && gh-pages -d dist"
   },
   "dependencies": {
+    "@types/lodash": "^4.14.184",
     "@vueuse/core": "^8.9.2",
     "@vueuse/head": "^0.7.6",
+    "ant-design-vue": "^3.2.12",
+    "lodash": "^4.17.21",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.16",
     "prism-theme-vars": "^0.2.4",
