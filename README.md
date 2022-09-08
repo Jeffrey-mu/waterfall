@@ -5,6 +5,15 @@
 ## 贡献指南
 - fork代码到本地 上传图片到/public/images 文件夹 提交pr
 审核通过即可合并
+## 项目截图
+- pc
+![image](https://user-images.githubusercontent.com/66287770/189014114-4cb5281d-4845-4f55-a67c-a4323a00719d.png)
+![image](https://user-images.githubusercontent.com/66287770/189014188-fa60ba42-1970-4d4d-82d5-31d8f00ce9f0.png)
+- 移动
+- ![image](https://user-images.githubusercontent.com/66287770/189014275-d987a970-8faf-424c-81ca-974ae08e9a76.png)
+![image](https://user-images.githubusercontent.com/66287770/189014300-03c8bef6-4dbb-401c-990a-e2db2362b9b9.png)
+![image](https://user-images.githubusercontent.com/66287770/189014386-aa39851f-6965-4707-a3df-7186d92ee884.png)
+
 ## 访问地址
 [link](https://waterfall-sigma.vercel.app/)
 [github](https://github.com/Jeffrey-mu/waterfall)
