@@ -1,0 +1,572 @@
+Script started on Tue Sep 20 18:35:26 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnnr[?2004l
+]633;C]633;E;nrDebugger attached.
+
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[32m✔[39m [1mscript to run[22m [90m›[39m dev
+[?25hDebugger attached.
+
+> @ dev /Users/wjf/Desktop/learn/waterfall
+> npm run script && vite --port 3333 --open
+
+Debugger attached.
+
+> script
+> node script/index.js
+
+Debugger attached.
+Do nothing.
+[32m[3mwrite seccess！[23m[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+Debugger attached.
+[31mfailed to load config from /Users/wjf/Desktop/learn/waterfall/vite.config.ts[39m
+[31merror when starting dev server:
+file:///Users/wjf/Desktop/learn/waterfall/vite.config.ts.mjs?t=1663670179063:12
+import VueI18n from "@intlify/vite-plugin-vue-i18n";
+       ^^^^^^^
+SyntaxError: The requested module '@intlify/vite-plugin-vue-i18n' does not provide an export named 'default'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:128:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:194:5)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:385:24)
+    at async loadConfigFromFile (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:62641:35)
+    at async resolveConfig (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:62281:28)
+    at async createServer (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:58899:20)
+    at async CAC.<anonymous> (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/cli.js:699:24)[39m
+Waiting for the debugger to disconnect...
+[41m[30m ELIFECYCLE [39m[49m [31mCommand failed with exit code 1.[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;1]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnni[?2004l
+]633;C]633;E;niDebugger attached.
+Debugger attached.
+Lockfile is up-to-date, resolution step is skipped
+Already up-to-date
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;0]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnnr[?2004l
+]633;C]633;E;nrDebugger attached.
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[32m✔[39m [1mscript to run[22m [90m›[39m dev
+[?25hDebugger attached.
+
+> @ dev /Users/wjf/Desktop/learn/waterfall
+> npm run script && vite --port 3333 --open
+
+Debugger attached.
+
+> script
+> node script/index.js
+
+Debugger attached.
+Do nothing.
+[32m[3mwrite seccess！[23m[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+Debugger attached.
+[31mfailed to load config from /Users/wjf/Desktop/learn/waterfall/vite.config.ts[39m
+[31merror when starting dev server:
+file:///Users/wjf/Desktop/learn/waterfall/vite.config.ts.mjs?t=1663670200022:12
+import VueI18n from "@intlify/vite-plugin-vue-i18n";
+       ^^^^^^^
+SyntaxError: The requested module '@intlify/vite-plugin-vue-i18n' does not provide an export named 'default'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:128:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:194:5)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:385:24)
+    at async loadConfigFromFile (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:62641:35)
+    at async resolveConfig (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:62281:28)
+    at async createServer (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:58899:20)
+    at async CAC.<anonymous> (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/cli.js:699:24)[39m
+Waiting for the debugger to disconnect...
+[41m[30m ELIFECYCLE [39m[49m [31mCommand failed with exit code 1.[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;1]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnr[?2004l
+]633;C]633;E;nrDebugger attached.
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[31m✖[39m [1mscript to run[22m [90m›[39m dev
+[?25hWaiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;0]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnrni[?2004l
+]633;C]633;E;niDebugger attached.
+Debugger attached.
+Lockfile is up-to-date, resolution step is skipped
+Progress: resolved [96m1[39m, reused [96m0[39m, downloaded [96m0[39m, added [96m0[39m
+[1APackages: [32m+1186[39m[0K
+[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m
+Progress: resolved [96m1[39m, reused [96m0[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1186[39m, reused [96m0[39m, downloaded [96m0[39m, added [96m0[39m
+[1APackages are hard linked from the content-addressable store to the virtual store.
+  Content-addressable store is at: /Users/wjf/.pnpm-store/v3
+  Virtual store is at:             node_modules/.pnpm
+Progress: resolved [96m1186[39m, reused [96m0[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1186[39m, reused [96m6[39m, downloaded [96m0[39m, added [96m5[39m
+[1AProgress: resolved [96m1186[39m, reused [96m12[39m, downloaded [96m0[39m, added [96m11[39m
+[1AProgress: resolved [96m1186[39m, reused [96m19[39m, downloaded [96m0[39m, added [96m19[39m
+[1AProgress: resolved [96m1186[39m, reused [96m26[39m, downloaded [96m0[39m, added [96m26[39m
+[1AProgress: resolved [96m1186[39m, reused [96m34[39m, downloaded [96m0[39m, added [96m26[39m
+[1AProgress: resolved [96m1186[39m, reused [96m70[39m, downloaded [96m0[39m, added [96m59[39m
+[1AProgress: resolved [96m1186[39m, reused [96m222[39m, downloaded [96m0[39m, added [96m212[39m
+[1AProgress: resolved [96m1186[39m, reused [96m235[39m, downloaded [96m0[39m, added [96m232[39m
+[1AProgress: resolved [96m1186[39m, reused [96m283[39m, downloaded [96m0[39m, added [96m278[39m
+[1AProgress: resolved [96m1186[39m, reused [96m304[39m, downloaded [96m0[39m, added [96m298[39m
+[1AProgress: resolved [96m1186[39m, reused [96m328[39m, downloaded [96m0[39m, added [96m326[39m
+[1AProgress: resolved [96m1186[39m, reused [96m372[39m, downloaded [96m0[39m, added [96m369[39m
+[1AProgress: resolved [96m1186[39m, reused [96m427[39m, downloaded [96m0[39m, added [96m426[39m
+[1AProgress: resolved [96m1186[39m, reused [96m433[39m, downloaded [96m0[39m, added [96m433[39m
+[1AProgress: resolved [96m1186[39m, reused [96m457[39m, downloaded [96m0[39m, added [96m453[39m
+[1AProgress: resolved [96m1186[39m, reused [96m505[39m, downloaded [96m0[39m, added [96m503[39m
+[1AProgress: resolved [96m1186[39m, reused [96m524[39m, downloaded [96m0[39m, added [96m517[39m
+[1AProgress: resolved [96m1186[39m, reused [96m567[39m, downloaded [96m0[39m, added [96m567[39m
+[1AProgress: resolved [96m1186[39m, reused [96m624[39m, downloaded [96m0[39m, added [96m626[39m
+[1AProgress: resolved [96m1186[39m, reused [96m636[39m, downloaded [96m0[39m, added [96m626[39m
+[1AProgress: resolved [96m1186[39m, reused [96m636[39m, downloaded [96m0[39m, added [96m627[39m
+[1AProgress: resolved [96m1186[39m, reused [96m669[39m, downloaded [96m0[39m, added [96m660[39m
+[1AProgress: resolved [96m1186[39m, reused [96m752[39m, downloaded [96m0[39m, added [96m741[39m
+[1AProgress: resolved [96m1186[39m, reused [96m777[39m, downloaded [96m0[39m, added [96m776[39m
+[1AProgress: resolved [96m1186[39m, reused [96m785[39m, downloaded [96m0[39m, added [96m779[39m
+[1AProgress: resolved [96m1186[39m, reused [96m825[39m, downloaded [96m0[39m, added [96m820[39m
+[1AProgress: resolved [96m1186[39m, reused [96m870[39m, downloaded [96m0[39m, added [96m864[39m
+[1AProgress: resolved [96m1186[39m, reused [96m920[39m, downloaded [96m0[39m, added [96m913[39m
+[1AProgress: resolved [96m1186[39m, reused [96m961[39m, downloaded [96m0[39m, added [96m957[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1011[39m, downloaded [96m0[39m, added [96m1000[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1034[39m, downloaded [96m0[39m, added [96m1031[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1073[39m, downloaded [96m0[39m, added [96m1071[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1118[39m, downloaded [96m0[39m, added [96m1114[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1155[39m, downloaded [96m0[39m, added [96m1153[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1181[39m, downloaded [96m0[39m, added [96m1182[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1181[39m, downloaded [96m0[39m, added [96m1183[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1182[39m, downloaded [96m0[39m, added [96m1183[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1182[39m, downloaded [96m0[39m, added [96m1184[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1183[39m, downloaded [96m0[39m, added [96m1184[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1183[39m, downloaded [96m0[39m, added [96m1185[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1184[39m, downloaded [96m0[39m, added [96m1185[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1184[39m, downloaded [96m0[39m, added [96m1186[39m
+[1AProgress: resolved [96m1186[39m, reused [96m1184[39m, downloaded [96m0[39m, added [96m1186[39m, done
+[90mnode_modules/.pnpm/registry.npmjs.org+core-js@3.25.0/node_modules/[39mcore-js: Running postinstall script...
+[90mnode_modules/.pnpm/registry.npmjs.org+cwebp-bin@6.1.2/node_modules/[39mcwebp-bin: Running postinstall script...
+[90mnode_modules/.pnpm/vue-demi@0.13.4_vue@3.2.37/node_modules/[39mvue-demi: Running postinstall script...
+[3A[90mnode_modules/.pnpm/registry.npmjs.org+core-js@3.25.0/node_modules/[39mcore-js: Running postinstall script, done in 172ms
+[2B[1A[90mnode_modules/.pnpm/vue-demi@0.13.4_vue@3.2.37/node_modules/[39mvue-demi: Running postinstall script, done in 224ms
+[2A[90mnode_modules/.pnpm/registry.npmjs.org+cwebp-bin@6.1.2/node_modules/[39mcwebp-bin: Running postinstall script, done in 3.2s
+[1B[90mnode_modules/.pnpm/esbuild@0.14.49/node_modules/[39mesbuild: Running postinstall script...
+[1A[90mnode_modules/.pnpm/esbuild@0.14.49/node_modules/[39mesbuild: Running postinstall script, done in 233ms
+[90mnode_modules/.pnpm/cypress@10.3.0/node_modules/[39mcypress: Running postinstall script...
+[1A[90mnode_modules/.pnpm/cypress@10.3.0/node_modules/[39mcypress: Running postinstall script, done in 566ms
+
+[96mdependencies:[39m
+[32m+[39m @types/lodash [90m4.14.184[39m
+[32m+[39m @vueuse/core [90m8.9.2[39m
+[32m+[39m @vueuse/head [90m0.7.6[39m
+[32m+[39m ant-design-vue [90m3.2.12[39m
+[32m+[39m lodash [90m4.17.21[39m
+[32m+[39m nprogress [90m0.2.0[39m
+[32m+[39m picocolors [90m1.0.0[39m
+[32m+[39m pinia [90m2.0.16[39m
+[32m+[39m prism-theme-vars [90m0.2.4[39m
+[32m+[39m vue [90m3.2.37[39m
+[32m+[39m vue-demi [90m0.13.4[39m
+[32m+[39m vue-i18n [90m9.1.10[39m
+[32m+[39m vue-router [90m4.1.2[39m
+[32m+[39m webp-batch-convert-p [90m0.0.4[39m
+
+[96mdevDependencies:[39m
+[32m+[39m @antfu/eslint-config [90m0.25.2[39m
+[32m+[39m @iconify-json/carbon [90m1.1.6[39m
+[32m+[39m @intlify/vite-plugin-vue-i18n [90m4.0.0[39m
+[32m+[39m @types/markdown-it-link-attributes [90m3.0.1[39m
+[32m+[39m @types/nprogress [90m0.2.0[39m
+[32m+[39m @vitejs/plugin-vue [90m3.0.0[39m
+[32m+[39m @vue/test-utils [90m2.0.2[39m
+[32m+[39m critters [90m0.0.16[39m
+[32m+[39m cross-env [90m7.0.3[39m
+[32m+[39m cypress [90m10.3.0[39m
+[32m+[39m eslint [90m8.19.0[39m
+[32m+[39m eslint-plugin-cypress [90m2.12.1[39m
+[32m+[39m gh-pages [90m4.0.0[39m
+[32m+[39m https-localhost [90m4.7.1[39m
+[32m+[39m markdown-it-link-attributes [90m4.0.0[39m
+[32m+[39m markdown-it-prism [90m2.2.4[39m
+[32m+[39m pnpm [90m7.5.1[39m
+[32m+[39m typescript [90m4.7.4[39m
+[32m+[39m unocss [90m0.44.1[39m
+[32m+[39m unplugin-auto-import [90m0.9.2[39m
+[32m+[39m unplugin-vue-components [90m0.21.1[39m
+[32m+[39m vite [90m3.0.0[39m
+[32m+[39m vite-plugin-inspect [90m0.5.1[39m
+[32m+[39m vite-plugin-pages [90m0.25.0[39m
+[32m+[39m vite-plugin-pwa [90m0.12.3[39m
+[32m+[39m vite-plugin-vue-layouts [90m0.6.0[39m
+[32m+[39m vite-plugin-vue-markdown [90m0.20.1[39m
+[32m+[39m vite-ssg [90m0.20.2[39m
+[32m+[39m vite-ssg-sitemap [90m0.3.1[39m
+[32m+[39m vitest [90m0.18.0[39m
+[32m+[39m vue-tsc [90m0.38.5[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;0]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnnr[?2004l
+]633;C]633;E;nrDebugger attached.
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m d
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m d
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m[2K[1A[2K[1A[2K[G[2K[1G[32m✔[39m [1mscript to run[22m [90m›[39m dev
+[?25hDebugger attached.
+
+> @ dev /Users/wjf/Desktop/learn/waterfall
+> npm run script && vite --port 3333 --open
+
+Debugger attached.
+
+> script
+> node script/index.js
+
+Debugger attached.
+Do nothing.
+[32m[3mwrite seccess！[23m[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+Debugger attached.
+[31mfailed to load config from /Users/wjf/Desktop/learn/waterfall/vite.config.ts[39m
+[31merror when starting dev server:
+file:///Users/wjf/Desktop/learn/waterfall/vite.config.ts.mjs?t=1663670246120:12
+import VueI18n from "@intlify/vite-plugin-vue-i18n";
+       ^^^^^^^
+SyntaxError: The requested module '@intlify/vite-plugin-vue-i18n' does not provide an export named 'default'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:128:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:194:5)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:385:24)
+    at async loadConfigFromFile (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:62641:35)
+    at async resolveConfig (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:62281:28)
+    at async createServer (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:58899:20)
+    at async CAC.<anonymous> (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/cli.js:699:24)[39m
+Waiting for the debugger to disconnect...
+[41m[30m ELIFECYCLE [39m[49m [31mCommand failed with exit code 1.[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;1]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hbbnr b  nnr[?2004l
+]633;C]633;E;nrDebugger attached.
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[32m✔[39m [1mscript to run[22m [90m›[39m dev
+[?25hDebugger attached.
+
+> @ dev /Users/wjf/Desktop/learn/waterfall
+> vite --port 3333 --open
+
+Debugger attached.
+  > Inspect: [33mhttp://localhost:3333/__inspect/[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v3.0.0[39m  [2mready in [37m[1m1734[22m[2m[39m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3333[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [37m[1m--host[22m[2m[39m to expose[22m
+^CWaiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;130]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;C]633;E;]633;D]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnr[?2004l
+]633;C]633;E;nrDebugger attached.
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[32m✔[39m [1mscript to run[22m [90m›[39m dev
+[?25hDebugger attached.
+
+> @ dev /Users/wjf/Desktop/learn/waterfall
+> npm run script && vite --port 3333 --open
+
+Debugger attached.
+
+> script
+> node script/index.js
+
+Debugger attached.
+Do nothing.
+[32m[3mwrite seccess！[23m[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+Debugger attached.
+[31mfailed to load config from /Users/wjf/Desktop/learn/waterfall/vite.config.ts[39m
+[31merror when starting dev server:
+file:///Users/wjf/Desktop/learn/waterfall/vite.config.ts.mjs?t=1663670333818:12
+import VueI18n from "@intlify/vite-plugin-vue-i18n";
+       ^^^^^^^
+SyntaxError: The requested module '@intlify/vite-plugin-vue-i18n' does not provide an export named 'default'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:128:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:194:5)
+    at async Promise.all (index 0)
+    at async ESMLoader.import (node:internal/modules/esm/loader:385:24)
+    at async loadConfigFromFile (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:62641:35)
+    at async resolveConfig (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:62281:28)
+    at async createServer (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/chunks/dep-561c5231.js:58899:20)
+    at async CAC.<anonymous> (file:///Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/vite@3.0.0/node_modules/vite/dist/node/cli.js:699:24)[39m
+Waiting for the debugger to disconnect...
+[41m[30m ELIFECYCLE [39m[49m [31mCommand failed with exit code 1.[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;1]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnr[?2004l
+]633;C]633;E;nrDebugger attached.
+
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[32m✔[39m [1mscript to run[22m [90m›[39m dev
+[?25hDebugger attached.
+
+> @ dev /Users/wjf/Desktop/learn/waterfall
+> npm run script && vite --port 3333 --open
+
+Debugger attached.
+
+> script
+> node script/index.js
+
+Debugger attached.
+(node:22605) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Waiting for the debugger to disconnect...
+/Users/wjf/Desktop/learn/waterfall/script/index.js:1
+import fs from 'fs'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+[90m    at Object.compileFunction (node:vm:352:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1033:15)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1069:27)[39m
+[90m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[90m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)[39m
+[90m    at node:internal/main/run_main_module:17:47[39m
+Waiting for the debugger to disconnect...
+[41m[30m ELIFECYCLE [39m[49m [31mCommand failed with exit code 1.[39m
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;1]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnni [7mts-node-dev[27m[11D[27mt[27ms[27m-[27mn[27mo[27md[27me[27m-[27md[27me[27mv[?2004l
+]633;C]633;E;ni ts-node-devDebugger attached.
+Debugger attached.
+Progress: resolved [96m0[39m, reused [96m1[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m44[39m, reused [96m44[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m45[39m, reused [96m45[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m46[39m, reused [96m45[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m97[39m, reused [96m97[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m245[39m, reused [96m244[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m428[39m, reused [96m428[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m594[39m, reused [96m590[39m, downloaded [96m0[39m, added [96m0[39m
+[1A[43m[30m WARN [39m[49m [31mdeprecated[39m uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+Progress: resolved [96m594[39m, reused [96m590[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m962[39m, reused [96m939[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1194[39m, reused [96m1175[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1195[39m, reused [96m1176[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1197[39m, reused [96m1178[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1205[39m, reused [96m1186[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1218[39m, reused [96m1199[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1238[39m, reused [96m1219[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1244[39m, reused [96m1225[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1245[39m, reused [96m1226[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1251[39m, reused [96m1232[39m, downloaded [96m0[39m, added [96m0[39m
+[1APackages: [32m+48[39m[0K
+[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m[32m+[39m
+Progress: resolved [96m1251[39m, reused [96m1232[39m, downloaded [96m0[39m, added [96m0[39m
+[1AProgress: resolved [96m1251[39m, reused [96m1232[39m, downloaded [96m0[39m, added [96m1[39m
+[1AProgress: resolved [96m1251[39m, reused [96m1232[39m, downloaded [96m0[39m, added [96m48[39m, done
+
+[96mdependencies:[39m
+[32m+[39m ts-node-dev [90m2.0.0[39m
+
+[43m[30m WARN [39m[49m Issues with peer dependencies found
+[37m.[39m
+├─┬ ts-node-dev
+│ └─┬ ts-node
+│   └── [31m✕ missing peer[39m @types/node@"*"
+├─┬ @intlify/vite-plugin-vue-i18n
+│ ├── [93m✕ unmet peer[39m vite@^2.9.0: found 3.0.0
+│ └── [93m✕ unmet peer[39m vue-i18n@next: found 9.1.10
+├─┬ unplugin-auto-import
+│ └─┬ unimport
+│   └─┬ unplugin
+│     └── [93m✕ unmet peer[39m vite@^2.3.0: found 3.0.0
+└─┬ vite-plugin-vue-layouts
+  └── [93m✕ unmet peer[39m vite@^2.5.0: found 3.0.0
+Peer dependencies that should be installed:
+  @types/node@"*"  
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;0]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hni ts-node-dev[14Dnr            [12D[?2004l
+]633;C]633;E;nrDebugger attached.
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - npm run script && vite --port 3333 --open[39m
+    build[90m - npm run script && vite-ssg build[39m
+    dev[90m - npm run script && vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[32m✔[39m [1mscript to run[22m [90m›[39m dev
+[?25hDebugger attached.
+
+> @ dev /Users/wjf/Desktop/learn/waterfall
+> npm run script && vite --port 3333 --open
+
+Debugger attached.
+
+> script
+> ts-node-dev script/index.ts
+
+Debugger attached.
+[[36mINFO[0m] [30;1m18:40:59[0m ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.1, typescript ver. 4.7.4)
+Debugger attached.
+Compilation error in /Users/wjf/Desktop/learn/waterfall/script/index.ts
+[[31;1mERROR[0m] [30;1m18:41:00[0m ⨯ Unable to compile TypeScript:
+script/index.ts(2,21): error TS7016: Could not find a declaration file for module 'webp-batch-convert-p'. '/Users/wjf/Desktop/learn/waterfall/node_modules/.pnpm/registry.npmjs.org+webp-batch-convert-p@0.0.4/node_modules/webp-batch-convert-p/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/webp-batch-convert-p` if it exists or add a new declaration (.d.ts) file containing `declare module 'webp-batch-convert-p';`
+
+^CWaiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...
+
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;D;130]633;P;Cwd=/Users/wjf/Desktop/learn/waterfallWaiting for the debugger to disconnect...
+[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                              ]633;C]633;E;]633;D]633;P;Cwd=/Users/wjf/Desktop/learn/waterfall[0m[27m[24m[J]633;Awjf@wjfdeMacBook-Pro waterfall % ]633;B[K[?2004hnnr[?2004l
+]633;C]633;E;nrDebugger attached.
+[?25l[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m 
+[90mno matches found[39m[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m 
+[36m❯[39m   [36m[4mdev[39m[24m[90m - vite --port 3333 --open[39m
+    build[90m - vite-ssg build[39m
+    dev[90m - vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m…[39m d
+[36m❯[39m   [36m[4mdev[39m[24m[90m - vite --port 3333 --open[39m
+    build[90m - vite-ssg build[39m
+    dev[90m - vite --port 3333 --open[39m
+    lint[90m - eslint .[39m
+    preview[90m - vite preview[39m
+    preview-https[90m - serve dist[39m
+    test[90m - vitest[39m
+    test:e2e[90m - cypress open[39m
+    test:unit[90m - vitest[39m
+  ↓ typecheck[90m - vue-tsc --noEmit[39m[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G[2K[1G[36m?[39m [1mscript to run[22m [90m›[39m d
+[36m❯[39m   [36m[4mdev[39m[24m[90m - vite --port 3333 --open[39m
+    dev[90m - vite --port 3333 --open[39m[2K[1A[2K[1A[2K[G[2K[1G[32m✔[39m [1mscript to run[22m [90m›[39m dev
+[?25hDebugger attached.
+
+> @ dev /Users/wjf/Desktop/learn/waterfall
+> vite --port 3333 --open
+
+Debugger attached.
+  > Inspect: [33mhttp://localhost:3333/__inspect/[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v3.0.0[39m  [2mready in [37m[1m1994[22m[2m[39m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3333[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [37m[1m--host[22m[2m[39m to expose[22m

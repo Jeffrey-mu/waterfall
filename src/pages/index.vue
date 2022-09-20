@@ -11,7 +11,7 @@ const images = _.chunk(imgs, imgs.length / 3)
           return 0.5 - Math.random()
         })" :key="image" m-1 rd overflow-hidden
       >
-        <a-image width="100%" :src="`images/${image}`" />
+        <a-image width="100%" :src="`webp/${image}`" />
       </div>
     </div>
   </div>
